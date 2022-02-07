@@ -18,6 +18,7 @@ from skimage.measure import find_contours
 import matplotlib.pyplot as plt
 from matplotlib import patches,  lines
 from matplotlib.patches import Polygon
+plt.style.use('dark_background')
 import IPython.display
 
 # Root directory of the project
